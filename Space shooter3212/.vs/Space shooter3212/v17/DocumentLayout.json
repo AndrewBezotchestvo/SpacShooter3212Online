@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Unity\\Space shooter3212\\",
+  "WorkspaceRootPath": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|f:\\unity\\space shooter3212\\assets\\scripts\\shipshootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|f:\\github\\spacshooter3212online\\space shooter3212\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|f:\\github\\spacshooter3212online\\space shooter3212\\assets\\scripts\\enemyuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\assets\\scripts\\stationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\assets\\scripts\\shipshootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shipshootcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|f:\\unity\\space shooter3212\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17A801DA-837A-BBFA-CF75-378ED6437E00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,28 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShipShootController.cs",
-              "DocumentMoniker": "F:\\Unity\\Space shooter3212\\Assets\\Scripts\\ShipShootController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ShipShootController.cs",
-              "ToolTip": "F:\\Unity\\Space shooter3212\\Assets\\Scripts\\ShipShootController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ShipShootController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAowGgAAAAJAAAAAAAAAA==",
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:31:28.592Z",
+              "WhenOpened": "2025-05-21T15:45:19.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EnemyUIController.cs",
+              "DocumentMoniker": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\EnemyUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyUIController.cs",
+              "ToolTip": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\EnemyUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:40:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationController.cs",
+              "DocumentMoniker": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\StationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StationController.cs",
+              "ToolTip": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\StationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:23:00.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipShootController.cs",
+              "DocumentMoniker": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\ShipShootController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShipShootController.cs",
+              "ToolTip": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\ShipShootController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShipShootController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:31:28.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerMove.cs",
-              "DocumentMoniker": "F:\\Unity\\Space shooter3212\\Assets\\Scripts\\PlayerMove.cs",
+              "DocumentMoniker": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMove.cs",
-              "ToolTip": "F:\\Unity\\Space shooter3212\\Assets\\Scripts\\PlayerMove.cs",
+              "ToolTip": "F:\\GitHub\\SpacShooter3212Online\\Space shooter3212\\Assets\\Scripts\\PlayerMove.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMove.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAIwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:08:32.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T15:08:32.377Z"
             }
           ]
         }
