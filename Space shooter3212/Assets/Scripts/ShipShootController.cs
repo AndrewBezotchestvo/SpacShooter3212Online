@@ -115,7 +115,7 @@ public class ShipShootController : MonoBehaviour
             if (_raycastHit.collider.gameObject.tag == "Enemy" && _isCharged)
             {
                 _isCharged = false;
-                //_raycastHit.collider.gameObject.GetComponent<EnemyController>().GetDamage(Random.Range(1, 10));
+                _raycastHit.collider.gameObject.GetComponent<EnemyController>().GetDamage(Random.Range(1, 10));
             }
             return _raycastHit.point;
         }
